@@ -31,5 +31,5 @@ This project is [MIT licensed](LICENSE).
 <hr />
 
 <div align="center">
-Made with <img src="https://cdn-icons-png.flaticon.com/512/7422/7422291.png" height="20px" width="20px"/> by <a href="https://github.com/gahcalistro">Me</a>.
+Made with <img src="https://cdn-icons-png.flaticon.com/512/7422/7422291.png" height="20px" width="20px"/> by <a href="https://github.com/luishfbr?tab=repositories">Me</a>.
 </div>
